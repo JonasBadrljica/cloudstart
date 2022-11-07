@@ -1,3 +1,11 @@
+#Contributer
+- 
+
+#Contributers
+- 7413499
+- 6100718
+- 7997398
+
 # starterProject
 
 StarterProjekt für Praktikanten zum erlernen der grundlegenden Technik von Projekten des Cloud-Teams
